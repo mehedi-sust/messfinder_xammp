@@ -1,0 +1,115 @@
+/*
+===============================
+Customized Styles for Pages
+===============================
+*/
+
+/*
+=================
+GLOBAL
+=================
+*/
+
+textarea{
+	resize: none;
+}
+
+.panel-arillo {
+  border-color: #37bc9b;
+}
+.panel-arillo > .panel-heading {
+  color: #fff;
+  background-color: #48cfad;
+  border-color: #37bc9b;
+}
+
+/*
+=================
+index.html
+=================
+*/
+
+#homepage_row_search{
+	margin-top:-120px;
+}
+
+/*
+==================
+search_result.html
+==================
+*/
+
+#search_result_quick_search{
+	margin:50px;
+}
+
+#search_result_content{
+	margin:50px;
+}
+
+/*
+========================
+add_basic_info.blade.php
+========================
+*/
+
+#create_mess_content{
+	margin:50px;
+}
+
+/*
+=======================
+add_room_info.blade.php
+=======================
+*/
+
+#room_info_content{
+	margin:50px;
+}
+
+/*
+=========================
+add_member_info.blade.php
+=========================
+*/
+
+#add_member_content_form{
+	margin:50px 25px;
+}
+
+#add_member_content_list{
+	margin:50px 25px;
+}
+
+#add_member_next_btn{
+	margin-top:25px;
+}
+
+/*
+=========================
+add_member_info.blade.php
+=========================
+*/
+#add_mess_feature_finish_btn{
+	margin-top:25px;
+}
+
+/*
+=========================
+mess_profile.blade.php
+=========================
+*/
+
+#mess_cover_photo{
+    display: block;
+    margin:auto;
+    width:100%;
+    height:300px;
+}
+
+#index_slide_photo{
+    display: block;
+    margin:auto;
+    width:100%;
+    height:500px;
+}

@@ -1,0 +1,14 @@
+.custom-table{
+	margin-left: 10px;
+}
+.custom-table > tbody > tr > td{
+	border-top: 0px;
+}
+
+li {
+	margin-left: -20px;
+}
+.table-bordered  th,
+.table-bordered  td {
+	border-right: 1px solid #fff
+}
